@@ -1,0 +1,1 @@
+setup(name='Cmdexplorer', version='1.0', description='Cmd file explorer', url='https://github.com/adob/cmdexplorer', author='Acxel Orozco', author_email='acxelorozco@gmail.com', license='MIT', packages=find_packages(), include_package_data=True, test_suite='nose.collector', tests_require=['nose'], install_requires=[])

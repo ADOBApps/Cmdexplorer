@@ -1,0 +1,3 @@
+recursive-include Cmdexplorer *.py 
+recursive-include Cmdexplorer *.pickle 
+include requirements.txt
